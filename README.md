@@ -22,7 +22,7 @@ Facebook's intraday data from IEX api
 
 ## Results
 ---
-[LSTM VS RSI](https://raw.githubusercontent.com/ctxj/Financial-Time-Series/main/img/results.png)
+![LSTM VS RSI](https://raw.githubusercontent.com/ctxj/Financial-Time-Series/main/img/results.png)
 
 ## License
 ---
