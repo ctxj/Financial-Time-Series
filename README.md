@@ -1,4 +1,4 @@
-# Financal Time Series Analysis
+# Financial Time Series Analysis
 Use deep learning models to perform time series analysis on financial data  
 Develop trading strategies using models forcasts  
 Compare stratergies with non ML approach
