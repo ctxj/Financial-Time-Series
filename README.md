@@ -1,7 +1,7 @@
 # Financial Time Series Analysis
-Use deep learning models to perform time series analysis on financial data  
-Develop trading strategies using models forcasts  
-Compare stratergies with non ML approach
+Used deep learning models to perform time series analysis on financial data  
+Developd trading strategies using models forcasts  
+Compared stratergies with non ML approach
 
 ## Prerequisites
 Python 3.8.6  
